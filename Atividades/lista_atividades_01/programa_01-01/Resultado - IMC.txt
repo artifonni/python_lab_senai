@@ -1,0 +1,6 @@
+[
+Nome: Sérgio, 
+Altura: 1.8,
+Peso: 84.0, 
+Resultado: 25.93 - Sobrepeso (Pré-obesidade)
+]
