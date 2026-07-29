@@ -11,9 +11,9 @@ try:
     os.system('cls' if os.name == 'nt' else 'clear')
 
     while True:
-        print('1 - Calcuar IMC | 2 - Encerrar o programa')
+        print('1 - Calcular IMC | 2 - Encerrar o programa')
 
-        opcao = int(input('Infome a opção deseada: ').strip())
+        opcao = int(input('Informe a opção desejada: ').strip())
 
         match opcao:
             case 1:
